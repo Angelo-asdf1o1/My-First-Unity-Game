@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6faabdfd4e00d0b4b929b2245041cf6f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rider Condensed
+  fontNames:
+  - Rider Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a4f20c586250fe448fa95db5da51794, type: 3}
+  - {fileID: 12800000, guid: dbd3ad567b939e641af7ef34089b5e88, type: 3}
+  - {fileID: 12800000, guid: 979d8e0aa607d2d408857658ce74eded, type: 3}
+  - {fileID: 12800000, guid: 0811f29df26fd7f47be8fc10bca1d34a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

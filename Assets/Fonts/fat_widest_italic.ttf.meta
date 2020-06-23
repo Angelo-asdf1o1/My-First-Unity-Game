@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: aba1ecd2627e01e48a5f8a101eb6900b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rider Widest
+  fontNames:
+  - Rider Widest
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e9ad06a07188ccb4ebe0018e757c8615, type: 3}
+  - {fileID: 12800000, guid: 02c35057e06e7db48a8c8dce0b99f05a, type: 3}
+  - {fileID: 12800000, guid: e318f7687b1ad3747a49d0467a6bd812, type: 3}
+  - {fileID: 12800000, guid: 548b53892353873489acfa1606cf37d4, type: 3}
+  - {fileID: 12800000, guid: 0b5e9ecfc01bcae409e3daf8ee68aa0e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

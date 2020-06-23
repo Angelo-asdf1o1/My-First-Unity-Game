@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: de635fc99da206d44aea709375778224
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rider Tall
+  fontNames:
+  - Rider Tall
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97ab2610a921b394f81dd70c49ee6c89, type: 3}
+  - {fileID: 12800000, guid: c46bf4d69c2e4494fb95f5c497769385, type: 3}
+  - {fileID: 12800000, guid: b5b06d6a1cee57a48b6b3d36707a3863, type: 3}
+  - {fileID: 12800000, guid: 8954a4ba027ab4f43a2885858dd70811, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

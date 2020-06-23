@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 167ea933b36d5aa4bbfa2ed09cfbe9a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rider Wide
+  fontNames:
+  - Rider Wide
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 055d3f33b22e3d14faa60169761d009d, type: 3}
+  - {fileID: 12800000, guid: 748abdc599722284bb167392d159cbe4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
